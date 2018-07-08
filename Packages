@@ -1,1 +1,14 @@
+Package: com.yourepo.bill88t.androidtermstyle
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Filename: ../Documents/com.yourepo.bill88t.androidtermstyle_1.1_iphoneos-arm.deb
+Size: 646930
+MD5sum: 9e5309be65d136e7f878c12d6938da03
+SHA1: 9b0ae3f8eae02838947a6917b44a19df3241e1c1
+SHA256: 068fe70eff2c68f4857308e394a28e65f808005bbab77fe52c86c9bfc56de4d5
+Section: Themes
+Description: Complete Androidterm style. Built by bill88t for ios testing
+Author: Bill88t <bill88t@androidterm.com>
+Name: Androidterm style
 
