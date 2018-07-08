@@ -1,3 +1,125 @@
+Package: com.gnos.bloard
+Version: 0.1.2-1
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 313
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ../Documents/bloard_0.1.2-1.deb
+Size: 70118
+MD5sum: 7c0add2b1081d60eb4eda8b9c58006e1
+SHA1: 953ff6c8b0cbe4a5ce54a7c5069aa8b4765f3791
+SHA256: 9c7493b3b1bc25798f01baaabaf2e29327b9161338e22b9f834d11890891db50
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bloardDp
+Description: Universal dark keyboard for iOS 7/8
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: GN-OS <techboy6601@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bloardDp
+Dev: gnos
+Icon: file:///Library/PreferenceBundles/BloardPreferences.bundle/bloard@2x.png
+Name: Bloard
+
+Package: com.jaysan1292.fluxtoggle
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 59
+Depends: mobilesubstrate, org.herf.flux
+Filename: ../Documents/sbsfluxtoggle_1.0-2.deb
+Size: 47140
+MD5sum: 3b62725006762018eedb75c595d62297
+SHA1: 70c8c7cf2c84b60adb18339f760f04af06ca7133
+SHA256: f411602daa46b39ac2bc92011a8e3bcb5e96302c9bbb27d8eae11ab386960898
+Section: Addons (SBSettings)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
+Description: Toggle f.lux w/ Activator or SBSettings
+Tag: purpose::extension
+Author: Jason Recillo <jaysan1292+cydia@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbsfluxtoggleDp
+Dev: jaysan1292
+Icon: file:///var/mobile/Library/SBSettings/Themes/Default/f.lux/on.png
+Name: f.lux Toggle
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.laughingquoll.controlcenterxi
+Version: 1.3.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1411
+Depends: mobilesubstrate, firmware (>= 8.0), com.laughingquoll.corexi, com.a3tweaks.flipswitch, com.rpetrich.rocketbootstrap (>= 1.0.4)
+Conflicts: com.atwiiks.horseshoe
+Filename: ../Documents/controlcenterxi_v1.3.1-1.deb
+Size: 238300
+MD5sum: 9501842276373863327e1fbd5edde952
+SHA1: fe8d3123c59a859246d6949e3b8f1df51f618989
+SHA256: 52f81f3ac269cbcbb32cd0a60c2e6210273f63995d840a280a7752316c893f97
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Description: iOS 11 Style Control Center
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Dev: laughingquoll
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
+Name: ControlCenterXI
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.laughingquoll.corexi
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 305
+Depends: mobilesubstrate, firmware (>= 8.0), ws.hbang.common, preferenceloader
+Filename: ../Documents/corexi_1.2-1.deb
+Size: 79518
+MD5sum: 96ecdd9d53eeeca8c480ee30301f487f
+SHA1: 7c54f27043fd4f02f5943519227a4501fdfddb6f
+SHA256: 3e5efc0de02d4b788664a7b4547c8a870ff5b09a442acc63ed360faef2e7746a
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=corexiDp
+Description: Preferences for Eleven tweaks
+Tag: purpose::extension, cydia::obsolete, compatible::ios10
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=corexiDp
+Dev: laughingquoll
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
+Name: CoreXI (iOS 10)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.repo.xarold.com.cydown
+Version: 6.9.5
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ../Documents/com.repo.xarold.com.cydown_6.9.5_iphoneos-arm.deb
+Size: 1066150
+MD5sum: fb7d84c0ff46e102e6defc5faf1e507f
+SHA1: 4593a585ae9354011ac1457108be57943a76787a
+SHA256: 45fd3b90624acc744aba9c8abf7dcb6bf5c5c975673cef56fab8132bd0994d3c
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne
+Depiction: http://repo.xarold.com/depiction.php?id=cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: com.repo.xarold.com.filza
+Version: 3.4.0-25k
+Architecture: iphoneos-arm
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.repo.xarold.com.filza64bit
+Filename: ../Documents/com.repo.xarold.com.filza_3.4.0-25k_iphoneos-arm.deb
+Size: 22333032
+MD5sum: f273472a015ff7a706ad21100e25d0e6
+SHA1: 594fe503d6efd924563e0fb66dbaabc034f4d8f6
+SHA256: 48ea4bb7838b501f48e70f24385f7c8161a5f0e5f7592967fa18b4396e3951e3
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Depiction: https://repo.xarold.com/depiction.php?id=filza
+Name: Filza File Manager
+
 Package: com.yourepo.bill88t.androidtermstyle
 Version: 1.1
 Architecture: iphoneos-arm
@@ -11,4 +133,115 @@ Section: Themes
 Description: Complete Androidterm style. Built by bill88t for ios testing
 Author: Bill88t <bill88t@androidterm.com>
 Name: Androidterm style
+
+Package: com.ziph0n.hapticfeedback
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 351
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, ws.hbang.common
+Conflicts: com.ziph0n.hapticlock
+Replaces: com.ziph0n.hapticlock
+Filename: ../Documents/hapticfeedback_1.2-1.deb
+Size: 32752
+MD5sum: ff5167b3497a34b783b93885bf6e621f
+SHA1: 73ca5cba975c65080f05d44f34633cdfa08a422b
+SHA256: e7d69c3e1843a6b7d39261af088d4a3f5c8b558eaeec78aa83398bb1f11e9abd
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticfeedbackDp
+Description: Get an haptic feedback when pushing buttons!
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Ziph0n <ziph0ntweak@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticfeedbackDp
+Dev: ziph0n
+Icon: file:///PreferenceBundles/HapticFeedback.bundle/icon@2x.png
+Name: HapticFeedback
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: fr.lululombard.certremaintime
+Version: 2.3.4-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 864
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ../Documents/certtimeremaining_2.3.4-2.deb
+Size: 506548
+MD5sum: 3a886d86130cb289e9fa24c8595f51b8
+SHA1: 31690c1621e62cafad4f73a36539db1b2438497b
+SHA256: e5d3a3619270d7c826c04b834fcd40350ed1803c998538c684702ea93d8658bd
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
+Description: check when you'll need to re-sign your jailbreak
+Tag: purpose::uikit, compatible::ios9, compatible::ios10
+Author: lululombard <contact@lululombard.fr>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
+Dev: lululombard
+Icon: file:///Applications/CertRemainTime.app/Icon.png
+Name: CertRemainTime
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: miktr.switch.flux
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), com.a3tweaks.flipswitch, org.herf.flux
+Filename: ../Documents/flipswitchflux_0.5.deb
+Size: 9644
+MD5sum: b362474d9e9b1ba7b11c7af371e57508
+SHA1: c27fe9302c50840bfbe03675a11c3b3065114bbd
+SHA256: 4571b845a464c95af1bdb54d7ada8f61d01571125d2e85668897206d4955d4f9
+Section: Addons (Flipswitch)
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchfluxDp
+Description: F.lux FlipSwitch Toggle. icon by /u/Dweide_Schrude
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Author: MikTr <tress.mike+fluxswitch@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchfluxDp
+Dev: miktr
+Name: f.lux Flipswitch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: org.herf.flux
+Version: 0.9988
+Architecture: iphoneos-arm
+Maintainer: Michael Herf <support@justgetflux.com>
+Depends: firmware (>= 5.0), firmware (<< 11), preferenceloader
+Filename: ../Documents/org.herf.flux_0.9988_iphoneos-arm.deb
+Size: 93244
+MD5sum: 4615bc52b0d6ef60a26d0f64154cfe40
+SHA1: 42723b39b542fb7cef31332a6614b12c55e72eb4
+SHA256: e8a73c0e8a8516a8132eedce3fb4b1d8e5ceb3cef17209ead8fdc5ba63adf6a5
+Section: Tweaks
+Priority: standard
+Homepage: https://justgetflux.com/
+Description: warms colors at night to match indoor lighting
+Author: F.lux Software LLC <support@justgetflux.com>
+Depiction: https://justgetflux.com/cydia/
+Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
+Name: f.lux
+
+Package: org.thebigboss.eclipse4
+Version: 4.1.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1515
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
+Conflicts: org.thebigboss.eclipse, org.thebigboss.eclipse2, org.thebigboss.eclipse3
+Filename: ../Documents/org.thebigboss.eclipse4_4.1.3_iphoneos-arm.deb
+Size: 810184
+MD5sum: 4dae53ca08d70e278db9e5887d530d3b
+SHA1: be1c19915e9c25fc60f23e0f16bfaa573f06f165
+SHA256: 1e2c26b21acd0a8f896532d04ad876c5538f924855d4260830ab9b8aff12932e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=eclipse4Dp
+Description: System-wide Night Mode and more for iOS 10.
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Author: Guillermo Moran (@fr0st) <willie_m5296@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=eclipse4Dp
+Dev: gmoran
+Icon: file:///Library/PreferenceBundles/Eclipse_Settings.bundle/eclipse@2x.png
+Name: Eclipse 4 (iOS 10)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
