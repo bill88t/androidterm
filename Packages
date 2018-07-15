@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: thebigboss.org <http://thebigboss.org>
 Installed-Size: 313
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ../repo/bloard_0.1.2-1.deb
+Filename: ../debs/bloard_0.1.2-1.deb
 Size: 70118
 MD5sum: 7c0add2b1081d60eb4eda8b9c58006e1
 SHA1: 953ff6c8b0cbe4a5ce54a7c5069aa8b4765f3791
@@ -25,7 +25,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 59
 Depends: mobilesubstrate, org.herf.flux
-Filename: ../repo/sbsfluxtoggle_1.0-2.deb
+Filename: ../debs/sbsfluxtoggle_1.0-2.deb
 Size: 47140
 MD5sum: 3b62725006762018eedb75c595d62297
 SHA1: 70c8c7cf2c84b60adb18339f760f04af06ca7133
@@ -48,7 +48,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1411
 Depends: mobilesubstrate, firmware (>= 8.0), com.laughingquoll.corexi, com.a3tweaks.flipswitch, com.rpetrich.rocketbootstrap (>= 1.0.4)
 Conflicts: com.atwiiks.horseshoe
-Filename: ../repo/controlcenterxi_v1.3.1-1.deb
+Filename: ../debs/controlcenterxi_v1.3.1-1.deb
 Size: 238300
 MD5sum: 9501842276373863327e1fbd5edde952
 SHA1: fe8d3123c59a859246d6949e3b8f1df51f618989
@@ -70,7 +70,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 305
 Depends: mobilesubstrate, firmware (>= 8.0), ws.hbang.common, preferenceloader
-Filename: ../repo/corexi_1.2-1.deb
+Filename: ../debs/corexi_1.2-1.deb
 Size: 79518
 MD5sum: 96ecdd9d53eeeca8c480ee30301f487f
 SHA1: 7c54f27043fd4f02f5943519227a4501fdfddb6f
@@ -92,7 +92,7 @@ Version: 6.9.5
 Architecture: iphoneos-arm
 Maintainer: Xarold <contact@xarold.com>
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ../repo/com.repo.xarold.com.cydown_6.9.5_iphoneos-arm.deb
+Filename: ../debs/com.repo.xarold.com.cydown_6.9.5_iphoneos-arm.deb
 Size: 1066150
 MD5sum: fb7d84c0ff46e102e6defc5faf1e507f
 SHA1: 4593a585ae9354011ac1457108be57943a76787a
@@ -109,7 +109,7 @@ Version: 3.4.0-25k
 Architecture: iphoneos-arm
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.repo.xarold.com.filza64bit
-Filename: ../repo/com.repo.xarold.com.filza_3.4.0-25k_iphoneos-arm.deb
+Filename: ../debs/com.repo.xarold.com.filza_3.4.0-25k_iphoneos-arm.deb
 Size: 22333032
 MD5sum: f273472a015ff7a706ad21100e25d0e6
 SHA1: 594fe503d6efd924563e0fb66dbaabc034f4d8f6
@@ -125,7 +125,7 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: bill88t <bill88t@androidterm.com>
 Depends: com.anemonetheming.anemone
-Filename: ../repo/com.yourepo.bill88t.androidtermstyle_1.2.1_iphoneos-arm.deb
+Filename: ../debs/com.yourepo.bill88t.androidtermstyle_1.2.1_iphoneos-arm.deb
 Size: 224178
 MD5sum: 4967f14c28caac12abbf9e39f906a90f
 SHA1: 80a8786c46381d30bc68b38ca616b5d254ae0d45
@@ -143,7 +143,7 @@ Installed-Size: 351
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, ws.hbang.common
 Conflicts: com.ziph0n.hapticlock
 Replaces: com.ziph0n.hapticlock
-Filename: ../repo/hapticfeedback_1.2-1.deb
+Filename: ../debs/hapticfeedback_1.2-1.deb
 Size: 32752
 MD5sum: ff5167b3497a34b783b93885bf6e621f
 SHA1: 73ca5cba975c65080f05d44f34633cdfa08a422b
@@ -166,7 +166,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 864
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ../repo/certtimeremaining_2.3.4-2.deb
+Filename: ../debs/certtimeremaining_2.3.4-2.deb
 Size: 506548
 MD5sum: 3a886d86130cb289e9fa24c8595f51b8
 SHA1: 31690c1621e62cafad4f73a36539db1b2438497b
@@ -188,7 +188,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 232
 Depends: mobilesubstrate (>= 0.9.5000), com.a3tweaks.flipswitch, org.herf.flux
-Filename: ../repo/flipswitchflux_0.5.deb
+Filename: ../debs/flipswitchflux_0.5.deb
 Size: 9644
 MD5sum: b362474d9e9b1ba7b11c7af371e57508
 SHA1: c27fe9302c50840bfbe03675a11c3b3065114bbd
@@ -209,7 +209,7 @@ Version: 0.9988
 Architecture: iphoneos-arm
 Maintainer: Michael Herf <support@justgetflux.com>
 Depends: firmware (>= 5.0), firmware (<< 11), preferenceloader
-Filename: ../repo/org.herf.flux_0.9988_iphoneos-arm.deb
+Filename: ../debs/org.herf.flux_0.9988_iphoneos-arm.deb
 Size: 93244
 MD5sum: 4615bc52b0d6ef60a26d0f64154cfe40
 SHA1: 42723b39b542fb7cef31332a6614b12c55e72eb4
@@ -230,7 +230,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1515
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.eclipse, org.thebigboss.eclipse2, org.thebigboss.eclipse3
-Filename: ../repo/org.thebigboss.eclipse4_4.1.3_iphoneos-arm.deb
+Filename: ../debs/org.thebigboss.eclipse4_4.1.3_iphoneos-arm.deb
 Size: 810184
 MD5sum: 4dae53ca08d70e278db9e5887d530d3b
 SHA1: be1c19915e9c25fc60f23e0f16bfaa573f06f165
