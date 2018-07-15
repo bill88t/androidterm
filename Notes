@@ -1,0 +1,5 @@
+install with sudo apt install dpkg-dev
+then use it as # dpkg-scanpackages -m .. > Packages
+then gzip -c9 Packages > Packages.gz
+and bzip2 -c9 Packages > Packages.bz2
+then Upload! :D
